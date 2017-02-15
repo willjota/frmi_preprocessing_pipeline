@@ -14,3 +14,4 @@ Third, change variable_intializaiton parameters to appropriate directories where
 
 When all parameters and directories are set, you will just run the main_batch.m file. Some SPM windows may automatically open during preprocessing. Any errors will be output to an error log. You can also monitor preprocssing through the main matlab window where SPM output should be printed.
 
+This pipeline has been altered from previously publically available code and adapated to the most current SPM12 functions and parameter settings.
